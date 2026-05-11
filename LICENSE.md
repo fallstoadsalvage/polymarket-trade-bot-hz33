@@ -1,4 +1,4 @@
-# 
+# updated Trading Bot for Polymarket - price-monitoring and high-frequency-trading offers the most advanced Polymarket trading-bot, with price-monitoring and high-frequency-trading.
 
 
 
